@@ -9,7 +9,7 @@ class Mess {
 	protected static $options = array(
 		'secret' => 'remember_to_change_me',
 		'signing_method' => 'sha256',
-		'verify' => true, // flag to enable/d
+		'verify' => true, // flag to enable/disable signature verification
 	);
 
 	public static function init(array $options){
