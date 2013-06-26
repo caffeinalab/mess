@@ -1,0 +1,13 @@
+{
+    "name": "lastguest/mess",
+    "description": "Signed Message Encoder/Decoder Class",
+    "authors": [
+        {
+            "name": "Stefano Azzolini",
+            "email": "lastguest@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
