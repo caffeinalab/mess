@@ -3,6 +3,8 @@ Mess
 
 Mess is a signed message encoder/decoder class useful for secure data passing to HTML forms or AJAX API calls.
 
+[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/CaffeinaLab/Mess/badges/quality-score.png?s=bb13f317db1553b085b3fc4b3b65521fd8170a66)](https://scrutinizer-ci.com/g/CaffeinaLab/Mess/)
+
 ```php
 // Start Mess by passing a user secret code for securing origin of payloads
 Mess::init(array(
